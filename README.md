@@ -1,7 +1,3 @@
-Here's a more vibrant and exciting version of your GitHub profile overview:
-
----
-
 # 👋 Hey there, I’m Muhammad Kamran Haider!
 
 **🚀 Code Artisan | Blockchain Alchemist | Full-Stack Virtuoso**
@@ -53,7 +49,3 @@ I’m not just a developer; I’m a creator of **digital masterpieces**, turning
 ---
 
 **⚡ Fun Fact:** I can create a flawless decentralized app faster than I can choose a coffee at Starbucks. Let’s build the future together! 🚀
-
----
-
-Feel free to tweak or let me know if you'd like me to make it even more engaging!

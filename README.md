@@ -2,7 +2,7 @@
 
 **🚀 Code Artisan | Blockchain Alchemist | Full-Stack Virtuoso**
 
-I’m not just a developer; I’m a creator of **digital masterpieces**, turning complex ideas into sleek, high-performing applications. With over **6 years of experience** in **Full Stack JavaScript Development** and **Blockchain Innovations**, I’ve been on a relentless quest to push the boundaries of what’s possible with code.
+I’m not just a developer; I’m a creator of **digital masterpieces**, turning complex ideas into sleek, high-performing applications. With over **7 years of experience** in **Full Stack JavaScript Development** and **Blockchain Innovations**, I’ve been on a relentless quest to push the boundaries of what’s possible with code.
 
 ---
 
@@ -44,7 +44,7 @@ I’m not just a developer; I’m a creator of **digital masterpieces**, turning
 ## 🌐 **Let’s Connect**
 - **LinkedIn**: [linkedin.com/in/m-kamran-haider](https://linkedin.com/in/m-kamran-haider)
 - **Email**: [mkamran.haider@hotmail.com](mailto:mkamran.haider@hotmail.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [github.com/yourusername](https://github.com/BlockBrewer)
 
 ---
 

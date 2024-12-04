@@ -44,7 +44,7 @@ I’m not just a developer; I’m a creator of **digital masterpieces**, turning
 ## 🌐 **Let’s Connect**
 - **LinkedIn**: [linkedin.com/in/m-kamran-haider](https://linkedin.com/in/m-kamran-haider)
 - **Email**: [mkamran.haider@hotmail.com](mailto:mkamran.haider@hotmail.com)
-- **GitHub**: [github.com/yourusername](https://github.com/BlockBrewer)
+- **GitHub**: [github.com/BlockBrewer](https://github.com/BlockBrewer)
 
 ---
 
